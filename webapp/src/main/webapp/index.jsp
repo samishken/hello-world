@@ -2,4 +2,4 @@
 <h2> Liverpool FC IN THE HOUSE </h2>
 
 
-<h5> Jenkins --> Ansible --> **loading** </h5>
+<h5> Jenkins --> Ansible --> Dockerhub --> Docker-host </h5>
